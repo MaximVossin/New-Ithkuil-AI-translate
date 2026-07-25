@@ -36,8 +36,8 @@
 ## 📂 Структура
 
 - `index.html` — введение
-- `chapter1.html` — глава 1
-- `chapter2.html` — глава 2
+- `phonology.html` — фонология
+- `morpho-phonology.html` — морфо-фонология
 - ... и так далее
 
 ## 🔗 Оригинал
